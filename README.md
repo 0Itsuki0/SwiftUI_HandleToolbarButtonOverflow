@@ -15,4 +15,4 @@ https://github.com/user-attachments/assets/41ab1017-f21f-40f7-bcb5-d55cd4662043
 
 
 For more discussions on what will NOT work (such as GeometryReader on the button, the content), 
-please refer to my blog: [SwiftUI: Is My Toolbar Button Overflowing?]()
+please refer to my blog: [SwiftUI: Is My Toolbar Button Overflowing?](https://medium.com/@itsuki.enjoy/swiftui-is-my-toolbar-button-overflowing-139651aa4174)
